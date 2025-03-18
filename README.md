@@ -8,7 +8,7 @@ This project is a UsabilityHub website clone built using HTML, CSS, and JavaScri
 ✨ Features
 
 ✅ Fully Responsive Design (Works on desktop, tablet, and mobile)
-<br>✅ Modern & Clean UI with Smooth Animations <br>✅ Interactive Navigation Bar with Hover Effects<br>✅ Engaging Hero Section with Call-to-Action Buttons<br>✅ Auto-Sliding Testimonials & Reviews Section<br>✅ Interactive FAQ Section with Toggle Effect<br>✅ Animated Scroll Effects for a Rich Experience<br>✅ Footer with Contact Information & Social Links
+<br>✅ Modern & Clean UI with Smooth Animations <br>✅ Interactive Navigation Bar with Hover Effects<br>✅ Interactive FAQ Section with Toggle Effect<br>✅ Animated Scroll Effects for a Rich Experience<br>✅ Footer with Contact Information & Social Links
 
 # 🛠️ Tech Stack
 
