@@ -33,12 +33,12 @@ open index.html
 
 # 📁 File Structure
 
-usabilityhub-clone/
-│── index.html    # Main HTML file<br>
+usabilityhub-clone/<br>
+<pre>│── index.html    # Main HTML file<br>
 │── styles.css    # Main CSS file<br>
 │── script.js     # JavaScript for interactions<br>
 │── images/       # Folder for images<br>
-│── README.md     # Project documentation<br>
+│── README.md     # Project documentation<br></pre>
 
 # 📸 Screenshots
 
@@ -49,9 +49,10 @@ usabilityhub-clone/
 <br>
 🚀 Enhance Animations and Transitions for a More Engaging Experience<br>🚀 Add User Authentication for Testing Features<br>🚀 Implement Backend for User Data Storage & Analytics
 
-#🤝 Contributing
+# 🤝 Contributing
 
 Feel free to fork this repository, make improvements, and submit a pull request. Contributions are always welcome! 🎉
 
 
-👨‍💻 Author: Ashish Sharma
+# 👨‍💻 Author<br>
+Ashish Sharma
