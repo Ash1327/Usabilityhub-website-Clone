@@ -40,9 +40,10 @@ usabilityhub-clone/<br>
 │── images/       # Folder for images<br>
 │── README.md     # Project documentation<br></pre>
 
-# 📸 Screenshots
+# 📸 Screenshots<br>
 
-(Add screenshots of the website here if available)
+![image](https://github.com/user-attachments/assets/f10e1359-2044-449d-b350-b4c590369b9c)
+
 
 
 # 🎯 Future Improvements
