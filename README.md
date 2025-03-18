@@ -10,14 +10,14 @@ This project is a UsabilityHub website clone built using HTML, CSS, and JavaScri
 ✅ Fully Responsive Design (Works on desktop, tablet, and mobile)
 <br>✅ Modern & Clean UI with Smooth Animations <br>✅ Interactive Navigation Bar with Hover Effects<br>✅ Engaging Hero Section with Call-to-Action Buttons<br>✅ Auto-Sliding Testimonials & Reviews Section<br>✅ Interactive FAQ Section with Toggle Effect<br>✅ Animated Scroll Effects for a Rich Experience<br>✅ Footer with Contact Information & Social Links
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 🎨 HTML (For structuring the content)
 
 🎭 CSS (For styling and layout)
 
 
-📥 Setup Instructions
+#📥 Setup Instructions
 
 1️⃣ Clone the repository
 
@@ -31,25 +31,25 @@ cd usabilityhub-clone
 
 open index.html
 
-📁 File Structure
+#📁 File Structure
 
 usabilityhub-clone/
-│── index.html    # Main HTML file
-│── styles.css    # Main CSS file
-│── script.js     # JavaScript for interactions
-│── images/       # Folder for images
-│── README.md     # Project documentation
+│── index.html    # Main HTML file<br>
+│── styles.css    # Main CSS file<br>
+│── script.js     # JavaScript for interactions<br>
+│── images/       # Folder for images<br>
+│── README.md     # Project documentation<br>
 
-📸 Screenshots
+#📸 Screenshots
 
 (Add screenshots of the website here if available)
 
 
-🎯 Future Improvements
+#🎯 Future Improvements
+<br>
+🚀 Enhance Animations and Transitions for a More Engaging Experience<br>🚀 Add User Authentication for Testing Features<br>🚀 Implement Backend for User Data Storage & Analytics
 
-🚀 Enhance Animations and Transitions for a More Engaging Experience🚀 Add User Authentication for Testing Features🚀 Implement Backend for User Data Storage & Analytics
-
-🤝 Contributing
+#🤝 Contributing
 
 Feel free to fork this repository, make improvements, and submit a pull request. Contributions are always welcome! 🎉
 
