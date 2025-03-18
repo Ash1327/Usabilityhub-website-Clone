@@ -21,7 +21,7 @@ This project is a UsabilityHub website clone built using HTML, CSS, and JavaScri
 
 1️⃣ Clone the repository
 
-git clone [https://github.com/your-username/usabilityhub-clone.git](https://github.com/Ash1327/Usabilityhub-website-Clone.git)
+git clone [https://github.com/Ash1327/Usabilityhub-website-Clone.git]
 
 2️⃣ Navigate to the project folder
 
